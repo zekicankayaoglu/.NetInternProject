@@ -1,0 +1,14 @@
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\bin\Debug\net7.0\Core.runtimeconfig.json
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\bin\Debug\net7.0\Core.dll
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.dll
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\Core.genruntimeconfig.cache
+C:\Users\zekican\Desktop\NorthwindLevelTwo-master\Core\obj\Debug\net7.0\ref\Core.dll
