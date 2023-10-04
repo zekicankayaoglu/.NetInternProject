@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <h1 class="display-4">Welcome to Intern Project</h1>
+    <h2 class="accordion-flush">You can create an account or login</h2>
+    <button style="background-color:cadetblue">
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Cart" asp-action="SignUp"><i class="fa-solid fa-user-plus"></i> Create Account</a>
+        </li>
+    </button>
+    <button style="background-color:cadetblue">
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-controller="Cart" asp-action="LogIn"><i class="fa-solid fa-arrow-right-to-bracket"></i> Login</a>
+        </li>
+    </button>
+</div>

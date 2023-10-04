@@ -1,0 +1,14 @@
+﻿@model LoggingDetailsViewModel
+
+<h2>Complete Order</h2>
+<form asp-controller="Cart" asp-action="Complete" method="post">
+    
+    <div class="form-group">
+        <label asp-for="LoggingDetails.Password">Password</label>
+        <input asp-for="LoggingDetails.Password" class="form-control" placeholder="Password" />
+        <span asp-validation-for="LoggingDetails.Password"></span>
+    </div>
+    <br />
+    
+    <input type="submit" value="Order" class="btn btn-success btn-group-sm" />
+</form>
